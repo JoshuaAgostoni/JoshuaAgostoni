@@ -1,19 +1,28 @@
 <h1>Hello! I'm Joshua Agostoni</h1>
 
-<h2>👨‍💻 Cyber Security and Cloud Architecture Projects:</h2>
+## 🚀 Featured Cybersecurity Projects
 
-- <b>Amazon Web Services Architecture</b>
-  - [AWS Secure Architecture](https://github.com/JoshuaAgostoni/AWS-SecureArchitectureLab/tree/main)
-- <b>Home Security Operation Center</b>
-  - [Home SOC Lab](https://github.com/JoshuaAgostoni/Home-SOC-Lab)) <b>
-- <b>Active Directory</b>
-  - [Active Directotry Lab](https://github.com/JoshuaAgostoni/Active-Directory)    
-- <b>Web Application Security</b>
-  - [Web Application and Penetration Testing](https://github.com/JoshuaAgostoni/Web-Application-Security/tree/main)
+* **Amazon Web Services Architecture**
+  * [AWS Secure Architecture](https://github.com/JoshuaAgostoni/AWS-SecureArchitectureLab/tree/main)
+  * Built a secure VPC with public/private subnets, IAM least privilege, and GuardDuty monitoring.
 
-- <b>Governance, Risk, and Compliance</b>
-  - [GRC & Risk Management Framework](https://github.com/JoshuaAgostoni/GRC-Framework)
-  - 
+* **Home Security Operation Center (SOC)**
+  * [Home SOC Lab](https://github.com/JoshuaAgostoni/Home-SOC-Lab)
+  * Deployed a Splunk SIEM to ingest Sysmon logs and engineered detection queries for brute-force attacks.
+
+* **Active Directory Infrastructure**
+  * [Active Directory Lab](https://github.com/JoshuaAgostoni/Active-Directory)
+  * Configured Windows Server 2022, promoted a Domain Controller, and managed secure identity services.
+
+* **Web Application Security**
+  * [Web Application and Penetration Testing](https://github.com/JoshuaAgostoni/Web-Application-Security/tree/main)
+  * Conducted manual exploitation of OWASP Top 10 vulnerabilities (SQLi, XSS, IDOR) using Burp Suite.
+
+* **Governance, Risk, and Compliance (GRC)**
+  * [GRC & Risk Management Framework](https://github.com/JoshuaAgostoni/GRC-Framework)
+  * Developed an Enterprise Risk Register and Cloud Security SOPs to align technical controls with business strategy.
+  </br>
+---   
 ## 🛡️ Professional Certifications & Credentials
 
 ### **CompTIA Secure Infrastructure Specialist – CSIS**
