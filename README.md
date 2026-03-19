@@ -11,8 +11,8 @@
 - <b>Web Application Security</b>
   - [Web Application and Penetration Testing](https://github.com/JoshuaAgostoni/Web-Application-Security/tree/main)
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Governance, Risk, and Compliance</b>
+  - [GRC & Risk Management Framework](https://github.com/JoshuaAgostoni/GRC-Framework)
   - 
 ## 🛡️ Professional Certifications & Credentials
 
